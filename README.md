@@ -1,10 +1,4 @@
 <h1 align="center">About me</h1>
-
-<a href="https://jb.gg/OpenSourceSupport">
-<p align="center">
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
-</p>
-</a>
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
 
 About me
