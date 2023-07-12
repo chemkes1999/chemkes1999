@@ -1,4 +1,4 @@
-<h1>About me</h1>
+About me
 <br>
 I am a computer systems engineer, I enjoy learning and developing new things every day.
 <br>
@@ -11,4 +11,5 @@ Github stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=chemkes1999&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chemkes1999&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph/commits?author=DenverCoder1" title="Code">💻</a>
 
