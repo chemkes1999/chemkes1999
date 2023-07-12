@@ -1,6 +1,3 @@
-<h1 align="center">About me</h1>
-<h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
-
 <br>
 Github stats
 <br>
