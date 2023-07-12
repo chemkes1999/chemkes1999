@@ -2,7 +2,6 @@
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
 
 <br>
-<br>
 Github stats
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemkes1999&show_icons=true&theme=transparent)
