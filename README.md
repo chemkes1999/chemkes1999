@@ -1,3 +1,16 @@
+<p align="center">
+    <img src="asset/logo.svg" height="150">
+</p>
+
+<h1 align="center">Github Readme Activity Graph</h1>
+
+<a href="https://jb.gg/OpenSourceSupport">
+<p align="center">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
+</p>
+</a>
+<h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
+
 About me
 <br>
 I am a computer systems engineer, I enjoy learning and developing new things every day.
@@ -13,15 +26,3 @@ Github stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chemkes1999&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph/commits?author=DenverCoder1" title="Code">💻</a>
 
-<p align="center">
-    <img src="asset/logo.svg" height="150">
-</p>
-
-<h1 align="center">Github Readme Activity Graph</h1>
-
-<a href="https://jb.gg/OpenSourceSupport">
-<p align="center">
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
-</p>
-</a>
-<h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
