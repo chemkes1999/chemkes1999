@@ -13,3 +13,24 @@ Github stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chemkes1999&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph/commits?author=DenverCoder1" title="Code">💻</a>
 
+## Table of contents
+
+-   [Table of contents](#table-of-contents)
+-   [How to Use](#how-to-use)
+    -   [Attention ⚠](#attention-)
+-   [Use themes](#use-themes)
+-   [Available Themes](#available-themes)
+-   [Customization](#customization)
+    -   [Common Options](#common-options)
+-   [Deploy on your own Replit instance](#deploy-on-your-own-replit-instance)
+    -   [Follow the steps](#follow-the-steps)
+-   [Deploy on your own Vercel instance](#deploy-on-your-own-vercel-instance)
+    -   [First Method](#first-method)
+    -   [Second Method](#second-method)
+    -   [Finally](#finally)
+-   [Contributing](#contributing)
+-   [Core Team 💻](#core-team-)
+-   [Contributors ✨](#contributors-)
+-   [Resources Used to build this project](#resources-used-to-build-this-project)
+-   [Star History](#star-history)
+    -   [Made with ❤ and TypeScript ](#made-with--and-typescript-)
