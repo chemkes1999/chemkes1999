@@ -1,9 +1,8 @@
 <h1 align="center">About me</h1>
+<h6 align="center">I am a computer systems engineer, I enjoy learning and developing new things every day</h6>
 <h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
 
-About me
 <br>
-I am a computer systems engineer, I enjoy learning and developing new things every day.
 <br>
 Github stats
 <br>
