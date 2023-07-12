@@ -13,24 +13,15 @@ Github stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chemkes1999&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph/commits?author=DenverCoder1" title="Code">💻</a>
 
-## Table of contents
+<p align="center">
+    <img src="asset/logo.svg" height="150">
+</p>
 
--   [Table of contents](#table-of-contents)
--   [How to Use](#how-to-use)
-    -   [Attention ⚠](#attention-)
--   [Use themes](#use-themes)
--   [Available Themes](#available-themes)
--   [Customization](#customization)
-    -   [Common Options](#common-options)
--   [Deploy on your own Replit instance](#deploy-on-your-own-replit-instance)
-    -   [Follow the steps](#follow-the-steps)
--   [Deploy on your own Vercel instance](#deploy-on-your-own-vercel-instance)
-    -   [First Method](#first-method)
-    -   [Second Method](#second-method)
-    -   [Finally](#finally)
--   [Contributing](#contributing)
--   [Core Team 💻](#core-team-)
--   [Contributors ✨](#contributors-)
--   [Resources Used to build this project](#resources-used-to-build-this-project)
--   [Star History](#star-history)
-    -   [Made with ❤ and TypeScript ](#made-with--and-typescript-)
+<h1 align="center">Github Readme Activity Graph</h1>
+
+<a href="https://jb.gg/OpenSourceSupport">
+<p align="center">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="150">
+</p>
+</a>
+<h3 align="center"><a href="https://jb.gg/OpenSourceSupport">Supported by JetBrains</a></h3>
