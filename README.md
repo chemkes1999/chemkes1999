@@ -1,5 +1,4 @@
 About me
-<hr>
 <br>
 I am a computer systems engineer, I enjoy learning and developing new things every day.
 <br>
