@@ -6,7 +6,10 @@ I am a computer systems engineer, I enjoy learning and developing new things eve
 ### Github Stats 💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemkes1999&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemkes1999&hide_progress=true)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemkes1999&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Trophies 🏆
 
