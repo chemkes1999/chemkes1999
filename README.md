@@ -7,8 +7,6 @@ I am a computer systems engineer, I enjoy learning and developing new things eve
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemkes1999&show_icons=true&theme=transparent)
 
-<br>
-
 ### Github Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chemkes1999&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
