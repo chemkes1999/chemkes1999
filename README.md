@@ -4,7 +4,6 @@
   </a>
 </h1>
 <h2>I am a computer systems engineer, I enjoy learning and developing new things every day. <a href="https://github.com/chemkes1999" title="Code">💻</a></h2>
-<img align='center' src='https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif' width='250"'>
 
 ### Github Stats 💻
 [![My Skills](https://skills.thijs.gg/icons?i=css,figma,git,html,java,js,jquery,mysql,nodejs,php,tailwind,ts,vue&theme=dark)](https://skills.thijs.gg)
