@@ -10,7 +10,7 @@
 
 ### Github Stats 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemkes1999&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemkes1999&show_icons=true&theme=radical)
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chemkes1999&theme=tokyonight" alt="muskanrani" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemkes1999)](https://github.com/anuraghazra/github-readme-stats)
 
