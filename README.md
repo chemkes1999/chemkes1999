@@ -5,15 +5,16 @@
 </h1>
 <h2>I am a computer systems engineer, I enjoy learning and developing new things every day. <a href="https://github.com/chemkes1999" title="Code">💻</a></h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='500"'>
-
 <a href="https://app.daily.dev/carlosshm99"><img src="https://api.daily.dev/devcards/730e51a2505b4e68a2b58348bef6f055.png?r=dpc" width="400" alt="Carlos Hemkes Mañueco's Dev Card"/></a>
 
 ### Github Stats 💻
+[![My Skills](https://skills.thijs.gg/icons?i=css,figma,git,html,java,js,jquery,mysql,nodejs,php,tailwind,ts,vue&theme=dark)](https://skills.thijs.gg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemkes1999&show_icons=true&theme=radical)
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chemkes1999&theme=tokyonight" alt="muskanrani" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemkes1999)](https://github.com/anuraghazra/github-readme-stats)
+![chemkes1999's Stats](https://github-readme-stats.vercel.app/api?username=chemkes1999&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![chemkes1999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chemkes1999&theme=vue-dark&hide_border=true)
+
+![chemkes1999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chemkes1999&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Github Trophies 🏆
 
