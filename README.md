@@ -6,22 +6,23 @@
 <h2>I am a computer systems engineer, I enjoy learning and developing new things every day. <a href="https://github.com/chemkes1999" title="Code">💻</a></h2>
 <img align='left' src='https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif' width='250"'>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chemkes1999&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)<
+[![trophy](https://github-profile-trophy.vercel.app/?username=chemkes1999&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Github Stats 💻
-[![My Skills](https://skills.thijs.gg/icons?i=css,figma,git,html,java,js,jquery,mysql,nodejs,php,tailwind,ts,vue&theme=dark)](https://skills.thijs.gg)
+### Github Stats 📈
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chemkes1999&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![chemkes1999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chemkes1999&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![chemkes1999's Stats](https://github-readme-stats.vercel.app/api?username=chemkes1999&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![chemkes1999's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chemkes1999&theme=vue-dark&hide_border=true)
 
-![chemkes1999's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chemkes1999&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### My skills 👍
 
+[![My Skills](https://skills.thijs.gg/icons?i=css,figma,git,html,java,js,jquery,mysql,nodejs,php,tailwind,ts,vue&theme=dark)](https://skills.thijs.gg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chemkes1999&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### Connect with me 🎵
+### Connect with me on Spotify 🎵
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=carlosshm)
 
