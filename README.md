@@ -7,7 +7,7 @@
 
 ### My skills 👍
 
-[![My Skills](https://skills.thijs.gg/icons?i=css,figma,git,html,java,js,jquery,mysql,nodejs,php,tailwind,ts,vue&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=css,git,html,java,js,jquery,mysql,nodejs,php,tailwind,ts,vue&theme=dark)](https://skills.thijs.gg)
 
 ### Github Stats 📈
 
