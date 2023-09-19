@@ -17,7 +17,7 @@
 | Streak                               | Trophy                                    |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chemkes1999&theme=vue-dark&hide_border=true) | [![Trophy](https://github-profile-trophy.vercel.app/?username=chemkes1999&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) |
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chemkes1999&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 | Connect with me on Spotify🎵        | :D                                     |
 | :----------------------------------: | :---------------------------------------: |
