@@ -6,8 +6,9 @@
 <h2>I am a computer systems engineer, I enjoy learning and developing new things every day. <a href="https://github.com/chemkes1999" title="Code">💻</a></h2>
 
 ### My skills 👍
+  <img src="https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,css,discord,express,git,github,html,java,js,jquery,linux,mysql,nodejs,npm,php,pinia,sass,tailwind,ts,vue" />
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,ts,vue,nodejs,php,java,mysql,git,bash&theme=dark)](https://skills.thijs.gg)
+
 
 ### Github Stats 📈
 
