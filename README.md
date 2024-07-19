@@ -12,8 +12,6 @@
   </a>
 </p>
 
-
-
 ### Github Stats 📈
 
 | Top Languages                        | Stats                                     |
@@ -22,7 +20,8 @@
 | Streak                               | Trophy                                    |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chemkes1999&theme=vue-dark&hide_border=true) | [![Trophy](https://github-profile-trophy.vercel.app/?username=chemkes1999&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) |
 
-
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
 | Connect with me on Spotify🎵        | :D                                     |
 | :----------------------------------: | :---------------------------------------: |
