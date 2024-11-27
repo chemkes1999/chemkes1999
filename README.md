@@ -8,7 +8,7 @@
 ### My skills 👍
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,css,discord,git,github,html,java,js,jquery,linux,mysql,nodejs,npm,php,pinia,sass,tailwind,ts,vue" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,git,github,html,java,js,linux,mysql,nodejs,npm,php,pinia,sass,tailwind,ts,vue" />
   </a>
 </p>
 
