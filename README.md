@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Carlos+Hemkes....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h2>I am a computer systems engineer, I enjoy learning and developing new things every day. <a href="https://github.com/chemkes1999" title="Code">💻</a></h2>
+<h2>I'm a computer systems engineer, I enjoy learning and developing new things every day. <a href="https://github.com/chemkes1999" title="Code">💻</a></h2>
 
 ### My skills 👍
 <p align="center">
