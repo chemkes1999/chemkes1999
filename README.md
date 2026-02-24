@@ -1,35 +1,99 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Carlos+Hemkes....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Carlos+Hemkes;Computer+Systems+Engineer;MSc+in+Networks+%26+Telecommunications;Software+Engineer+%7C+Backend+%7C+Infrastructure;Building+Scalable+Systems+🚀" />
 </h1>
-<h2>I'm a computer systems engineer, I enjoy learning and developing new things every day. <a href="https://github.com/chemkes1999" title="Code">💻</a></h2>
 
-### My skills 👍
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,cs,discord,git,github,html,java,js,linux,mysql,nodejs,npm,php,pinia,tailwind,ts,vue" />
+  <a href="https://github.com/chemkes1999">
+    <img src="https://img.shields.io/github/followers/chemkes1999?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=chemkes1999&style=for-the-badge&color=0e75b6" />
 </p>
 
-### Github Stats 📈
+---
 
-| Top Languages                        | Stats                                     |
-| :----------------------------------: | :---------------------------------------: |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chemkes1999&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api?username=chemkes1999&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
-| Streak                               | Trophy                                    |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chemkes1999&theme=vue-dark&hide_border=true) | [![Trophy](https://github-profile-trophy.vercel.app/?username=chemkes1999&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) |
+# 👨‍💻 Professional Profile
 
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+🎓 **Computer Systems Engineer**  
+🎓 **Master of Science in Networks & Telecommunications**  
 
-| Connect with me on Spotify🎵        | :D                                     |
-| :----------------------------------: | :---------------------------------------: |
-| ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=carlosshm) | <img src='https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif' width='250"'> |
+I am a Software Engineer with a strong foundation in distributed systems, networking, and backend architecture.  
+My background allows me to design, develop, and deploy scalable applications with a deep understanding of infrastructure and performance optimization.
 
-![](https://komarev.com/ghpvc/?username=chemkes1999&color=brightgreen) 
+I focus on:
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+- 🔹 Backend development & API architecture  
+- 🔹 Network design & telecommunications infrastructure  
+- 🔹 System scalability & performance optimization  
+- 🔹 Secure software development practices  
+- 🔹 Clean architecture & maintainable code  
+
+---
+
+# 🛠 Technical Expertise
+
+### 💻 Programming & Development
+- JavaScript / TypeScript  
+- C# (.NET)  
+- Java  
+- PHP  
+- Node.js  
+
+### 🌐 Web Technologies
+- Vue.js  
+- RESTful APIs  
+- Authentication & Authorization (JWT, role-based access)  
+- State management (Pinia)  
+
+### 🗄 Databases
+- MySQL  
+- Relational database design  
+- Query optimization  
+
+### 🖥 Systems & Infrastructure
+- Linux environments  
+- Network configuration & troubleshooting  
+- TCP/IP, routing fundamentals  
+- Infrastructure fundamentals  
+- Deployment workflows  
+
+### ⚙ Tools & DevOps
+- Git & GitHub  
+- NPM  
+- Version control strategies  
+- Agile methodologies  
+
+---
+
+# 📊 GitHub Metrics
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&width=200"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chemkes1999&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemkes1999&layout=compact&theme=vue-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chemkes1999&theme=vue-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Core Competencies
+
+✔ System Thinking  
+✔ Problem Solving  
+✔ Analytical Skills  
+✔ Continuous Learning  
+✔ Technical Documentation  
+✔ Cross-functional Collaboration  
+
+---
+
+# 🎯 Career Objective
+
+To contribute to high-impact projects where software engineering and network infrastructure converge, delivering scalable, secure, and high-performance solutions.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00F7FF&height=120&section=footer"/>
 </p>
