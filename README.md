@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Carlos+Hemkes;Computer+Systems+Engineer;MSc+in+Networks+%26+Telecommunications;Software+Engineer+%7C+Backend+%7C+Infrastructure;Building+Scalable+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF¢er=true&vCenter=true&width=800&lines=Carlos+Hemkes;Computer+Systems+Engineer;MSc+in+Networks+%26+Telecommunications;Software+Engineer+%7C+Backend+%26+Cloud;Building+Scalable+%26+Secure+Systems+🚀" />
 </h1>
 
 <p align="center">
@@ -16,51 +16,55 @@
 🎓 **Computer Systems Engineer**  
 🎓 **Master of Science in Networks & Telecommunications**  
 
-I am a Software Engineer with a strong foundation in distributed systems, networking, and backend architecture.  
-My background allows me to design, develop, and deploy scalable applications with a deep understanding of infrastructure and performance optimization.
+Software Engineer with deep expertise bridging software architecture, networking infrastructure, cloud computing, and cybersecurity. Experienced in designing robust RESTful services, scalable architectures, and modern web applications backed by a solid foundation in network protocols, DevOps, and applied AI.
 
-I focus on:
-
-- 🔹 Backend development & API architecture  
-- 🔹 Network design & telecommunications infrastructure  
-- 🔹 System scalability & performance optimization  
-- 🔹 Secure software development practices  
-- 🔹 Clean architecture & maintainable code  
+- 🔹 **Backend & API Architecture:** ASP.NET MVC / .NET 8, Node.js, PHP & Laravel
+- 🔹 **Infrastructure & Networking:** Network design, routing, troubleshooting, and Cisco fundamentals
+- 🔹 **Cloud & DevOps:** AWS, Microsoft Azure, and automated deployment pipelines
+- 🔹 **Cybersecurity & Hardening:** Secure API design, network defense, and system auditing
+- 🔹 **Applied AI:** Generative AI integration, Amazon Q, and advanced prompt engineering
 
 ---
 
-# 🛠 Technical Expertise
+# 🛠 Technical Stack
 
-### 💻 Programming & Development
-- JavaScript / TypeScript  
-- C# (.NET)  
-- Java  
-- PHP  
-- Node.js  
+### 💻 Backend & Programming
+- **Languages / Runtimes:** C# (.NET / ASP.NET MVC), Node.js, Java, PHP, JavaScript / TypeScript
+- **Frameworks & ORMs:** Entity Framework (.NET 8), Laravel, Express.js
+- **Architecture:** Clean Architecture, REST APIs, Microservices & Distributed Concepts
 
-### 🌐 Web Technologies
-- Vue.js  
-- RESTful APIs  
-- Authentication & Authorization (JWT, role-based access)  
-- State management (Pinia)  
+### 🌐 Frontend & Web Development
+- **Core:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks & State:** Vue.js, Pinia
+- **Auth & Security:** JWT, Role-Based Access Control (RBAC)
 
-### 🗄 Databases
-- MySQL  
-- Relational database design  
-- Query optimization  
+### ☁️ Cloud, DevOps & Systems
+- **Cloud Providers:** Amazon Web Services (AWS), Microsoft Azure
+- **Systems & OS:** Linux environments, Shell scripting
+- **DevOps & VCS:** Git, GitHub, CI/CD fundamentals, NPM
 
-### 🖥 Systems & Infrastructure
-- Linux environments  
-- Network configuration & troubleshooting  
-- TCP/IP, routing fundamentals  
-- Infrastructure fundamentals  
-- Deployment workflows  
+### 🗄 Databases & Storage
+- **Relational:** MySQL, SQL Server, Relational Modeling & Schema Design
+- **Optimization:** Query optimization, indexing strategies, data integrity
 
-### ⚙ Tools & DevOps
-- Git & GitHub  
-- NPM  
-- Version control strategies  
-- Agile methodologies  
+### 🌐 Networking, Security & IoT
+- **Protocols & Routing:** TCP/IP stack, Network Addressing, Device Configuration (Cisco)
+- **Troubleshooting:** Network Support, Packet Analysis, Diagnostic workflows
+- **Security:** Cybersecurity fundamentals, access perimeter security, IoT architecture
+
+---
+
+# 📜 Certifications & Continuous Learning
+
+Holds **16 professional certifications** across 5 specialized domains:
+
+| Domain | Key Certifications & Issuing Organizations |
+| :--- | :--- |
+| **Networking & Systems** | • *Networking Basics* (Cisco)<br>• *Networking Devices and Initial Configuration* (Cisco)<br>• *Network Addressing and Basic Troubleshooting* (Cisco)<br>• *Introduction to the Internet of Everything* (Cisco) |
+| **Cybersecurity** | • *Introduction to Cybersecurity* (Cisco)<br>• *Network Support and Security* (Cisco)<br>• *Fundamentos de Ciberseguridad* (Santander / Open Academy) |
+| **Cloud & DevOps** | • *Getting Started with DevOps on AWS* (AWS)<br>• *Fundamentos de Microsoft Azure* (Microsoft) |
+| **Artificial Intelligence** | • *Introduction to Generative AI - Art of the Possible* (AWS)<br>• *Introducción a Amazon Q* (AWS)<br>• *Prompting Responsable: Maximiza la IA en tu Negocio* (Santander / Open Academy) |
+| **Software Development** | • *Master en ASP.NET MVC - Entity Framework (.NET 8)* (Udemy)<br>• *Dominar Laravel* (Udemy)<br>• *Node: De cero a experto* (Udemy)<br>• *Vue.js: De cero a experto* (Udemy) |
 
 ---
 
@@ -79,21 +83,21 @@ I focus on:
 
 # 🧠 Core Competencies
 
-✔ System Thinking  
-✔ Problem Solving  
-✔ Analytical Skills  
-✔ Continuous Learning  
-✔ Technical Documentation  
-✔ Cross-functional Collaboration  
+✔ System Architecture & Scalability  
+✔ Network Infrastructure & Telecommunications  
+✔ Cloud Integrations (AWS & Azure)  
+✔ Applied AI & Developer Tooling  
+✔ Technical Documentation & Clean Code  
+✔ Cross-functional & Agile Team Collaboration  
 
 ---
 
 # 🎯 Career Objective
 
-To contribute to high-impact projects where software engineering and network infrastructure converge, delivering scalable, secure, and high-performance solutions.
+To lead and contribute to high-impact engineering projects where software development, cloud infrastructure, and network architecture converge—delivering secure, scalable, and resilient systems.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00F7FF&height=120§ion=footer"/>
 </p>
